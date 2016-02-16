@@ -33,7 +33,7 @@ class GalleryPage_Controller extends Page_Controller {
 	public function init() {
 		parent::init();
 	}
-	
+
 	/**
 	 * Pagination - Displays 12 Images Per page
 	 *
@@ -49,7 +49,7 @@ class GalleryPage_Controller extends Page_Controller {
 		)->setPageLength(12);
 
 		return $paginatedImages;
-	}	
+	}
 }
 
 class GalleryPage_Images extends DataObject {

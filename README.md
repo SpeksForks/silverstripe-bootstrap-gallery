@@ -4,7 +4,7 @@
 Add a responsive bootstrap gallery to your website
 
 ## Author
-This module was created by Creative Gorillas (Sajan Sharma). This module is based on the "frankmullenger/silverstripe-gallery" created by [frank-mullenger](https://github.com/frankmullenger) 
+This module was created by Creative Gorillas (Sajan Sharma). This module is based on the "frankmullenger/silverstripe-gallery" created by [frank-mullenger](https://github.com/frankmullenger)
 
 ###### Improvements Made
 - Used free [Blueimp Bootstrap Gallery Plugin](https://github.com/blueimp/Bootstrap-Image-Gallery) (To avoid paying FancyBox Licensing Fees)

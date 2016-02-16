@@ -9,7 +9,7 @@
             <span aria-hidden="true">&laquo;</span>
           </a>
         </li>
-      <% end_if %>   
+      <% end_if %>
 
       <% loop $PaginatedImages.PaginationSummary %>
         <% if $CurrentBool %>
